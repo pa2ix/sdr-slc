@@ -1,0 +1,21 @@
+site_name: SDR-SLC
+site_description: Open protocol suite for low-cost networked SDR hardware
+site_author: Ivo van Ling, PA2IX
+site_url: https://pa2ix.github.io/sdr-slc/
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Discovery: discovery.md
+  - Control Plane: control-plane.md
+  - VITA Transport: vita-transport.md
+  - Getting Started: getting-started.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - toc:
+      permalink: true
