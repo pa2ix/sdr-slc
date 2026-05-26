@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/images/SDR_SLC_Icon_V2_no_spectrum.png" width="320">
+</p>
+
 # SDR-SLC
 
 SDR-SLC is an open protocol suite for low-cost networked software-defined radio hardware.
