@@ -80,8 +80,8 @@ Current release status:
 
 - Protocol suite: Release Candidate
 - STM32 firmware: internal testing
-- Client software: experimental
-- Reference hardware: in development
+- Client software: version 1.0 in Apple App Store
+- Reference hardware: RTL-SDR dongle, BladeRF, SDR-SDR HF transceiver
 
 ---
 
