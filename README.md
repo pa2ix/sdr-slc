@@ -46,7 +46,7 @@ The SDR-SLC protocol suite consists of four specifications.
 
 Overall system architecture, philosophy, slice model, conformance profiles, and hardware model.
 
-[Open PDF](docs/assets/pdf/SDR-SLC-PS-1_0-v2.pdf)
+[Open PDF](docs/assets/pdf/SDR-SLC-PS-1_0-R1_2.pdf)
 
 ---
 
@@ -54,7 +54,7 @@ Overall system architecture, philosophy, slice model, conformance profiles, and 
 
 Automatic device discovery using mDNS and DNS-SD.
 
-[Open PDF](docs/assets/pdf/SDR-SLC-DISC-1_0-v2.pdf)
+[Open PDF](docs/assets/pdf/SDR-SLC-DISC-1_0-R1_2.pdf)
 
 ---
 
@@ -62,7 +62,7 @@ Automatic device discovery using mDNS and DNS-SD.
 
 JSON-over-TCP protocol for capabilities, tuning, stream lifecycle management, RX/TX control, and asynchronous events.
 
-[Open PDF](docs/assets/pdf/SDR-SLC-CP-1_0-v2.pdf)
+[Open PDF](docs/assets/pdf/SDR-SLC-CP-1_0-R1_3.pdf)
 
 ---
 
@@ -70,7 +70,7 @@ JSON-over-TCP protocol for capabilities, tuning, stream lifecycle management, RX
 
 UDP transport for I/Q streams using constrained VITA-49 profiles.
 
-[Open PDF](docs/assets/pdf/SDR-SLC-VITA-1_0-v2.pdf)
+[Open PDF](docs/assets/pdf/SDR-SLC-VITA-1_0-R1_2.pdf)
 
 ---
 
